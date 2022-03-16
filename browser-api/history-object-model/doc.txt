@@ -1,0 +1,5 @@
+history object model e amra
+history.length --- history te koyta page ase
+history.back()  ---  1 step pisabo
+history.forward()  ---  1 step smne agabo
+history.go(-3) --- direct page jump

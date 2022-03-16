@@ -1,0 +1,14 @@
+js crome browser e v8 engine er maddhome cole and justInTime compailer use kore
+dom tree + style rule = render tree
+js single threated . single threated hoye asynconus kaj korar jonno event loop use kore
+
+
+
+
+
+
+
+from quiz...................
+heap is a large (mostly unstructured ) region of memory
+a call stack is a mechanism for an interpreter
+The CSS Object Model is a set of APIs allowing the manipulation of CSS from JavaScript
